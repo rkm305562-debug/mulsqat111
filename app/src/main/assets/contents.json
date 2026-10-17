@@ -1,0 +1,4710 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "faces_smile",
+      "name": "وجوه مرحة",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "سعيد"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "😂"
+          ],
+          "accessibility_text": "ضحك"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "😀"
+          ],
+          "accessibility_text": "ابتسامة كبيرة"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "😉"
+          ],
+          "accessibility_text": "غمزة"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "😍"
+          ],
+          "accessibility_text": "حب"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "😘"
+          ],
+          "accessibility_text": "قبلة"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🤩"
+          ],
+          "accessibility_text": "نجمة"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "😎"
+          ],
+          "accessibility_text": "رائع"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "😞"
+          ],
+          "accessibility_text": "حزين"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😭"
+          ],
+          "accessibility_text": "بكاء"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😡"
+          ],
+          "accessibility_text": "غاضب"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😴"
+          ],
+          "accessibility_text": "نعسان"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "😮"
+          ],
+          "accessibility_text": "متفاجئ"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🤔"
+          ],
+          "accessibility_text": "تفكير"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "😳"
+          ],
+          "accessibility_text": "خجول"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😷"
+          ],
+          "accessibility_text": "مريض"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😨"
+          ],
+          "accessibility_text": "خائف"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "😵"
+          ],
+          "accessibility_text": "دوخة"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😜"
+          ],
+          "accessibility_text": "لسان"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🥳"
+          ],
+          "accessibility_text": "احتفال"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "👑"
+          ],
+          "accessibility_text": "ملك"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "😋"
+          ],
+          "accessibility_text": "لذيذ"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "😅"
+          ],
+          "accessibility_text": "توتر"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "😑"
+          ],
+          "accessibility_text": "ملل"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🤨"
+          ],
+          "accessibility_text": "شك"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "😱"
+          ],
+          "accessibility_text": "صدمة"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🎵"
+          ],
+          "accessibility_text": "موسيقى"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "🥰"
+          ],
+          "accessibility_text": "حنان"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "😔"
+          ],
+          "accessibility_text": "حزن هادئ"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "😇"
+          ],
+          "accessibility_text": "دعاء"
+        }
+      ]
+    },
+    {
+      "identifier": "cats_mood",
+      "name": "قطط المزاج",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "سعيد"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "😂"
+          ],
+          "accessibility_text": "ضحك"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "😀"
+          ],
+          "accessibility_text": "ابتسامة كبيرة"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "😉"
+          ],
+          "accessibility_text": "غمزة"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "😍"
+          ],
+          "accessibility_text": "حب"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "😘"
+          ],
+          "accessibility_text": "قبلة"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🤩"
+          ],
+          "accessibility_text": "نجمة"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "😎"
+          ],
+          "accessibility_text": "رائع"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "😞"
+          ],
+          "accessibility_text": "حزين"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😭"
+          ],
+          "accessibility_text": "بكاء"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😡"
+          ],
+          "accessibility_text": "غاضب"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😴"
+          ],
+          "accessibility_text": "نعسان"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "😮"
+          ],
+          "accessibility_text": "متفاجئ"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🤔"
+          ],
+          "accessibility_text": "تفكير"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "😳"
+          ],
+          "accessibility_text": "خجول"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😷"
+          ],
+          "accessibility_text": "مريض"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😨"
+          ],
+          "accessibility_text": "خائف"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "😵"
+          ],
+          "accessibility_text": "دوخة"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😜"
+          ],
+          "accessibility_text": "لسان"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🥳"
+          ],
+          "accessibility_text": "احتفال"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "👑"
+          ],
+          "accessibility_text": "ملك"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "😋"
+          ],
+          "accessibility_text": "لذيذ"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "😅"
+          ],
+          "accessibility_text": "توتر"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "😑"
+          ],
+          "accessibility_text": "ملل"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🤨"
+          ],
+          "accessibility_text": "شك"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "😱"
+          ],
+          "accessibility_text": "صدمة"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🎵"
+          ],
+          "accessibility_text": "موسيقى"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "🥰"
+          ],
+          "accessibility_text": "حنان"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "😔"
+          ],
+          "accessibility_text": "حزن هادئ"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "😇"
+          ],
+          "accessibility_text": "دعاء"
+        }
+      ]
+    },
+    {
+      "identifier": "bears_mood",
+      "name": "دببة المشاعر",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "سعيد"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "😂"
+          ],
+          "accessibility_text": "ضحك"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "😀"
+          ],
+          "accessibility_text": "ابتسامة كبيرة"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "😉"
+          ],
+          "accessibility_text": "غمزة"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "😍"
+          ],
+          "accessibility_text": "حب"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "😘"
+          ],
+          "accessibility_text": "قبلة"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🤩"
+          ],
+          "accessibility_text": "نجمة"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "😎"
+          ],
+          "accessibility_text": "رائع"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "😞"
+          ],
+          "accessibility_text": "حزين"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😭"
+          ],
+          "accessibility_text": "بكاء"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😡"
+          ],
+          "accessibility_text": "غاضب"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😴"
+          ],
+          "accessibility_text": "نعسان"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "😮"
+          ],
+          "accessibility_text": "متفاجئ"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🤔"
+          ],
+          "accessibility_text": "تفكير"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "😳"
+          ],
+          "accessibility_text": "خجول"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😷"
+          ],
+          "accessibility_text": "مريض"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😨"
+          ],
+          "accessibility_text": "خائف"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "😵"
+          ],
+          "accessibility_text": "دوخة"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😜"
+          ],
+          "accessibility_text": "لسان"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🥳"
+          ],
+          "accessibility_text": "احتفال"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "👑"
+          ],
+          "accessibility_text": "ملك"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "😋"
+          ],
+          "accessibility_text": "لذيذ"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "😅"
+          ],
+          "accessibility_text": "توتر"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "😑"
+          ],
+          "accessibility_text": "ملل"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🤨"
+          ],
+          "accessibility_text": "شك"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "😱"
+          ],
+          "accessibility_text": "صدمة"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🎵"
+          ],
+          "accessibility_text": "موسيقى"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "🥰"
+          ],
+          "accessibility_text": "حنان"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "😔"
+          ],
+          "accessibility_text": "حزن هادئ"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "😇"
+          ],
+          "accessibility_text": "دعاء"
+        }
+      ]
+    },
+    {
+      "identifier": "greetings",
+      "name": "تحيات وصباحيات",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "☀️"
+          ],
+          "accessibility_text": "صباح الخير"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🌆"
+          ],
+          "accessibility_text": "مساء الخير"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🌞"
+          ],
+          "accessibility_text": "صباح النور"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "🌇"
+          ],
+          "accessibility_text": "مساء النور"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "تصبح على خير"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "😴"
+          ],
+          "accessibility_text": "أحلام سعيدة"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "السلام عليكم"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🤝"
+          ],
+          "accessibility_text": "وعليكم السلام"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "مرحباً"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "أهلاً وسهلاً"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "يا هلا والله"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "حياك الله"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "💡"
+          ],
+          "accessibility_text": "نورت"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🌟"
+          ],
+          "accessibility_text": "منور"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🙂"
+          ],
+          "accessibility_text": "كيف حالك؟"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "الحمد لله بخير"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🤔"
+          ],
+          "accessibility_text": "وينك؟"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🍯"
+          ],
+          "accessibility_text": "صباحك عسل"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "مع السلامة"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "في أمان الله"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "إلى اللقاء"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🌞"
+          ],
+          "accessibility_text": "يومك سعيد"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🕌"
+          ],
+          "accessibility_text": "جمعة مباركة"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🎉"
+          ],
+          "accessibility_text": "كل عام وأنتم بخير"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "عيد مبارك"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "رمضان كريم"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "تقبل الله طاعتكم"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "☕"
+          ],
+          "accessibility_text": "أسعد الله صباحك"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "🌷"
+          ],
+          "accessibility_text": "طابت أوقاتكم"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🌸"
+          ],
+          "accessibility_text": "يومك جميل"
+        }
+      ]
+    },
+    {
+      "identifier": "love_feelings",
+      "name": "حب ومشاعر",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "❤️"
+          ],
+          "accessibility_text": "أحبك"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "💖"
+          ],
+          "accessibility_text": "قلبي"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "💞"
+          ],
+          "accessibility_text": "عمري"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "😍"
+          ],
+          "accessibility_text": "حبيبي"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "😘"
+          ],
+          "accessibility_text": "حبيبتي"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "يا قمر"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "💔"
+          ],
+          "accessibility_text": "وحشتني"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "💕"
+          ],
+          "accessibility_text": "اشتقت إليك"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "✨"
+          ],
+          "accessibility_text": "أنت الأجمل"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "❤️"
+          ],
+          "accessibility_text": "أحبك كثيراً"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🤝"
+          ],
+          "accessibility_text": "أنا معك"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "💝"
+          ],
+          "accessibility_text": "فداك روحي"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "😍"
+          ],
+          "accessibility_text": "ما أحلاك"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "تسلم"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "👀"
+          ],
+          "accessibility_text": "يا عيوني"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🌕"
+          ],
+          "accessibility_text": "قمر الزمان"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "💘"
+          ],
+          "accessibility_text": "أنت حياتي"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🥺"
+          ],
+          "accessibility_text": "لا تتركني"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "💔"
+          ],
+          "accessibility_text": "أفتقدك"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🎁"
+          ],
+          "accessibility_text": "أنت أحلى ما عندي"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "💗"
+          ],
+          "accessibility_text": "روحي"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "💓"
+          ],
+          "accessibility_text": "نبض قلبي"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "صديقي الغالي"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "💪"
+          ],
+          "accessibility_text": "أخي الحبيب"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🌸"
+          ],
+          "accessibility_text": "أختي الغالية"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "👩"
+          ],
+          "accessibility_text": "أمي حبيبتي"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "👨"
+          ],
+          "accessibility_text": "أبي قدوتي"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "شكراً لوجودك"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "💡"
+          ],
+          "accessibility_text": "أنت نور حياتي"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "💌"
+          ],
+          "accessibility_text": "كل الحب لك"
+        }
+      ]
+    },
+    {
+      "identifier": "quick_replies",
+      "name": "ردود سريعة",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "👍"
+          ],
+          "accessibility_text": "تمام"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "👌"
+          ],
+          "accessibility_text": "ماشي"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "✅"
+          ],
+          "accessibility_text": "أكيد"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "💯"
+          ],
+          "accessibility_text": "طبعاً"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "❌"
+          ],
+          "accessibility_text": "لا"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🚫"
+          ],
+          "accessibility_text": "مستحيل"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🤷"
+          ],
+          "accessibility_text": "ربما"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🤷"
+          ],
+          "accessibility_text": "ما أدري"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "إن شاء الله"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😮"
+          ],
+          "accessibility_text": "يا سلام"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "رائع"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "⭐"
+          ],
+          "accessibility_text": "ممتاز"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "😂"
+          ],
+          "accessibility_text": "هههههه"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "😱"
+          ],
+          "accessibility_text": "لا تقول"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🤔"
+          ],
+          "accessibility_text": "صح؟"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🎯"
+          ],
+          "accessibility_text": "بالضبط"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "👍"
+          ],
+          "accessibility_text": "معك حق"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "✔️"
+          ],
+          "accessibility_text": "أنا موافق"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😉"
+          ],
+          "accessibility_text": "ما عندي مانع"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "💡"
+          ],
+          "accessibility_text": "فكرة حلوة"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "⏳"
+          ],
+          "accessibility_text": "لحظة من فضلك"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "⏱️"
+          ],
+          "accessibility_text": "دقيقة"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "⏰"
+          ],
+          "accessibility_text": "ثواني"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🏃"
+          ],
+          "accessibility_text": "أنا قادم"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🚗"
+          ],
+          "accessibility_text": "في الطريق"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "📍"
+          ],
+          "accessibility_text": "وصلت"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🙌"
+          ],
+          "accessibility_text": "خلاص"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "😌"
+          ],
+          "accessibility_text": "على راحتك"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "📱"
+          ],
+          "accessibility_text": "سأخبرك لاحقاً"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "☎️"
+          ],
+          "accessibility_text": "كلمني"
+        }
+      ]
+    },
+    {
+      "identifier": "duaa_blessing",
+      "name": "دعاء وبركة",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "✨"
+          ],
+          "accessibility_text": "ما شاء الله"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "بارك الله فيك"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "جزاك الله خيراً"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "الحمد لله"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "سبحان الله"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🕌"
+          ],
+          "accessibility_text": "الله أكبر"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "لا حول ولا قوة إلا بالله"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "أستغفر الله"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "🌟"
+          ],
+          "accessibility_text": "بإذن الله"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "💪"
+          ],
+          "accessibility_text": "الله يعطيك العافية"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🛡️"
+          ],
+          "accessibility_text": "الله يحفظك"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "💚"
+          ],
+          "accessibility_text": "الله يسلمك"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🎁"
+          ],
+          "accessibility_text": "الله يبارك لك"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🌿"
+          ],
+          "accessibility_text": "توكلنا على الله"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "حسبي الله ونعم الوكيل"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "✨"
+          ],
+          "accessibility_text": "رزقك الله"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "تقبل الله منا ومنكم"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "اللهم آمين"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "الله المستعان"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🌱"
+          ],
+          "accessibility_text": "إن شاء الله خير"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🕊️"
+          ],
+          "accessibility_text": "الله يرحمه"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🌿"
+          ],
+          "accessibility_text": "شفاك الله"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🌟"
+          ],
+          "accessibility_text": "الله يهديك"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🌟"
+          ],
+          "accessibility_text": "الله يوفقك"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "✨"
+          ],
+          "accessibility_text": "ما شاء الله تبارك الله"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "ألف الحمد لله"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "يا رب"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "🌿"
+          ],
+          "accessibility_text": "صبراً جميلاً"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "🛡️"
+          ],
+          "accessibility_text": "ربي يحفظكم"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "اللهم بارك"
+        }
+      ]
+    },
+    {
+      "identifier": "occasions",
+      "name": "مناسبات ومواقف",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "🎉"
+          ],
+          "accessibility_text": "مبروك"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🎊"
+          ],
+          "accessibility_text": "ألف مبروك"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🥳"
+          ],
+          "accessibility_text": "تهانينا"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "🎁"
+          ],
+          "accessibility_text": "عقبال عندك"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🍀"
+          ],
+          "accessibility_text": "بالتوفيق"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "💍"
+          ],
+          "accessibility_text": "بالرفاه والبنين"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🎓"
+          ],
+          "accessibility_text": "مبروك النجاح"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "💼"
+          ],
+          "accessibility_text": "مبروك الوظيفة"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "👶"
+          ],
+          "accessibility_text": "مبروك المولود"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🎂"
+          ],
+          "accessibility_text": "عيد ميلاد سعيد"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🎈"
+          ],
+          "accessibility_text": "سنة حلوة يا جميل"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "شكراً"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "شكراً جزيلاً"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "عفواً"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🤝"
+          ],
+          "accessibility_text": "لا شكر على واجب"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "آسف"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🥺"
+          ],
+          "accessibility_text": "سامحني"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "لا تزعل"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "💪"
+          ],
+          "accessibility_text": "صباح الإنجاز"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "😩"
+          ],
+          "accessibility_text": "تعبان"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🍔"
+          ],
+          "accessibility_text": "جوعان"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "😴"
+          ],
+          "accessibility_text": "نعسان"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "💻"
+          ],
+          "accessibility_text": "مشغول"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "👌"
+          ],
+          "accessibility_text": "ما في مشكلة"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "😌"
+          ],
+          "accessibility_text": "لا تقلق"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "😎"
+          ],
+          "accessibility_text": "خلها علي"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "📅"
+          ],
+          "accessibility_text": "عندي اجتماع"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "أنا بخير"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "🍀"
+          ],
+          "accessibility_text": "حظ سعيد"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "يعطيك العافية"
+        }
+      ]
+    },
+    {
+      "identifier": "gulf_dialect",
+      "name": "لهجة خليجية",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "🗞️"
+          ],
+          "accessibility_text": "وش الأخبار؟"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "👍"
+          ],
+          "accessibility_text": "أبشر"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "سم طال عمرك"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "😎"
+          ],
+          "accessibility_text": "تامر أمر"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "👌"
+          ],
+          "accessibility_text": "ما عليك زود"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "👍"
+          ],
+          "accessibility_text": "زين"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "حيا الله من جانا"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🙂"
+          ],
+          "accessibility_text": "شلونك؟"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "🤝"
+          ],
+          "accessibility_text": "الله يسلمك"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😮"
+          ],
+          "accessibility_text": "يا شيخ"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😍"
+          ],
+          "accessibility_text": "وايد حلو"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "👌"
+          ],
+          "accessibility_text": "مب مشكلة"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🚗"
+          ],
+          "accessibility_text": "خلنا نطلع"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "😌"
+          ],
+          "accessibility_text": "على كيفك"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "💪"
+          ],
+          "accessibility_text": "عساك على القوة"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "ما قصرت"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🤝"
+          ],
+          "accessibility_text": "يعطيك العافية يا غالي"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "الله يخليك"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "تسلم يدينك"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "✅"
+          ],
+          "accessibility_text": "ما يخالف"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "😌"
+          ],
+          "accessibility_text": "لا تشيل هم"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "هلا والله"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "❤️"
+          ],
+          "accessibility_text": "يا حبيبي"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "👍"
+          ],
+          "accessibility_text": "صح لسانك"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🏃"
+          ],
+          "accessibility_text": "أنا جاي"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "🚗"
+          ],
+          "accessibility_text": "وين رايح؟"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🗣️"
+          ],
+          "accessibility_text": "بشرني عنك"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "👌"
+          ],
+          "accessibility_text": "طيب"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "🤔"
+          ],
+          "accessibility_text": "وش رايك؟"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "الحمد لله على السلامة"
+        }
+      ]
+    },
+    {
+      "identifier": "levant_egypt",
+      "name": "لهجات شامية ومصرية",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "🙂"
+          ],
+          "accessibility_text": "إزيك؟"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "عامل إيه؟"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "كيفك؟"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "🗞️"
+          ],
+          "accessibility_text": "شو الأخبار؟"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "😮"
+          ],
+          "accessibility_text": "يا عم"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "👌"
+          ],
+          "accessibility_text": "ولا يهمك"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "👁️"
+          ],
+          "accessibility_text": "على عيني"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "😎"
+          ],
+          "accessibility_text": "يا زلمة"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "🛡️"
+          ],
+          "accessibility_text": "دير بالك"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🏃"
+          ],
+          "accessibility_text": "يلا بينا"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "👍"
+          ],
+          "accessibility_text": "تمام التمام"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "❤️"
+          ],
+          "accessibility_text": "حبيبي يا غالي"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "💯"
+          ],
+          "accessibility_text": "مية مية"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "✅"
+          ],
+          "accessibility_text": "ما فيش مشكلة"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🤔"
+          ],
+          "accessibility_text": "ولا إيه؟"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🙌"
+          ],
+          "accessibility_text": "خلاص كده"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "⏳"
+          ],
+          "accessibility_text": "استنى شوية"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🏃"
+          ],
+          "accessibility_text": "أنا جاي"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "معلش"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "😱"
+          ],
+          "accessibility_text": "يا ساتر"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "😌"
+          ],
+          "accessibility_text": "ما تقلقش"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "تسلم إيدك"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "يا رب سترك"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "عاش"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "حقك علي"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "شكراً يا قمر"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "💞"
+          ],
+          "accessibility_text": "قلبي معاك"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "🤝"
+          ],
+          "accessibility_text": "ولا يهمك حبيبي"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "أهلين"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "يسلمو"
+        }
+      ]
+    },
+    {
+      "identifier": "daily_life",
+      "name": "يوميات وأكل",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "☕"
+          ],
+          "accessibility_text": "صباح القهوة"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🍵"
+          ],
+          "accessibility_text": "وقت الشاي"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🍔"
+          ],
+          "accessibility_text": "جوعان جداً"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "🍳"
+          ],
+          "accessibility_text": "الفطور جاهز"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🍛"
+          ],
+          "accessibility_text": "الغداء جاهز"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🍽️"
+          ],
+          "accessibility_text": "العشاء جاهز"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "😋"
+          ],
+          "accessibility_text": "صحتين وعافية"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🍰"
+          ],
+          "accessibility_text": "حلويات"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "😋"
+          ],
+          "accessibility_text": "ما أطيب"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🥤"
+          ],
+          "accessibility_text": "عطشان"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😴"
+          ],
+          "accessibility_text": "نعسان جداً"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🛌"
+          ],
+          "accessibility_text": "قيلولة"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🛒"
+          ],
+          "accessibility_text": "في السوق"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🏠"
+          ],
+          "accessibility_text": "في البيت"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "💼"
+          ],
+          "accessibility_text": "في العمل"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🚗"
+          ],
+          "accessibility_text": "في المشوار"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "☀️"
+          ],
+          "accessibility_text": "الجو حار"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🥶"
+          ],
+          "accessibility_text": "الجو بارد"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🌧️"
+          ],
+          "accessibility_text": "أمطرت"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "✈️"
+          ],
+          "accessibility_text": "سفر سعيد"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🧳"
+          ],
+          "accessibility_text": "رحلة موفقة"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🛬"
+          ],
+          "accessibility_text": "وصلنا بالسلامة"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🌃"
+          ],
+          "accessibility_text": "ليلة هادئة"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "سهرة جميلة"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🌤️"
+          ],
+          "accessibility_text": "نهاركم سعيد"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "🛋️"
+          ],
+          "accessibility_text": "خذ راحتك"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🍕"
+          ],
+          "accessibility_text": "يلا نتعشى"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "☕"
+          ],
+          "accessibility_text": "قهوة؟"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "🥰"
+          ],
+          "accessibility_text": "أحبكم"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🌈"
+          ],
+          "accessibility_text": "يوم رائع"
+        }
+      ]
+    },
+    {
+      "identifier": "work_study",
+      "name": "دراسة وعمل",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "📅"
+          ],
+          "accessibility_text": "اجتماع الآن"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "💻"
+          ],
+          "accessibility_text": "مشغول حالياً"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "📞"
+          ],
+          "accessibility_text": "سأعاود الاتصال"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "✅"
+          ],
+          "accessibility_text": "تم الإنجاز"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🛠️"
+          ],
+          "accessibility_text": "قيد العمل"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "⏳"
+          ],
+          "accessibility_text": "في انتظار الرد"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "شكراً على جهودكم"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🌟"
+          ],
+          "accessibility_text": "عمل رائع"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "📚"
+          ],
+          "accessibility_text": "بالتوفيق في الامتحان"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "📝"
+          ],
+          "accessibility_text": "اختبار غداً"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🤓"
+          ],
+          "accessibility_text": "ذاكرت كثيراً"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🎓"
+          ],
+          "accessibility_text": "نجحت بحمد الله"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "أحسنت"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "💪"
+          ],
+          "accessibility_text": "لا تستسلم"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🌈"
+          ],
+          "accessibility_text": "كن إيجابياً"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "👣"
+          ],
+          "accessibility_text": "خطوة بخطوة"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "⏰"
+          ],
+          "accessibility_text": "التزم بالموعد"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "👍"
+          ],
+          "accessibility_text": "ممتاز أكمل"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "📎"
+          ],
+          "accessibility_text": "أرسل الملف"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "📥"
+          ],
+          "accessibility_text": "وصلني شكراً"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🗓️"
+          ],
+          "accessibility_text": "سنتحدث لاحقاً"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🏖️"
+          ],
+          "accessibility_text": "إجازة سعيدة"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🌅"
+          ],
+          "accessibility_text": "بداية أسبوع موفقة"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🎉"
+          ],
+          "accessibility_text": "نهاية أسبوع سعيدة"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "😩"
+          ],
+          "accessibility_text": "تعبت اليوم"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "☕"
+          ],
+          "accessibility_text": "استراحة قصيرة"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "💡"
+          ],
+          "accessibility_text": "لدي فكرة"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "🤔"
+          ],
+          "accessibility_text": "ما رأيكم؟"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "✔️"
+          ],
+          "accessibility_text": "موافق"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🔍"
+          ],
+          "accessibility_text": "سأراجع وأخبرك"
+        }
+      ]
+    },
+    {
+      "identifier": "islamic_events",
+      "name": "مناسبات إسلامية",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "أهلاً رمضان"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "تقبل الله صيامكم"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "صيام مقبول"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "🍽️"
+          ],
+          "accessibility_text": "إفطار شهي"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🌃"
+          ],
+          "accessibility_text": "سحور مبارك"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "✨"
+          ],
+          "accessibility_text": "ليلة القدر"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🎉"
+          ],
+          "accessibility_text": "عيد الفطر مبارك"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🐑"
+          ],
+          "accessibility_text": "عيد الأضحى مبارك"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "🕋"
+          ],
+          "accessibility_text": "حج مبرور"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🕋"
+          ],
+          "accessibility_text": "عمرة مقبولة"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🕌"
+          ],
+          "accessibility_text": "رحلة إيمانية"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🕌"
+          ],
+          "accessibility_text": "يوم الجمعة نور"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "صلاة مقبولة"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🛡️"
+          ],
+          "accessibility_text": "حفظك الله"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🎊"
+          ],
+          "accessibility_text": "عساكم من عواده"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "هلّ هلال"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "ليلة مباركة"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "دعواتكم"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "⚖️"
+          ],
+          "accessibility_text": "في ميزان حسناتك"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🌿"
+          ],
+          "accessibility_text": "أجر وعافية"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "اللهم لك الحمد"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "تصبحون على خير"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "نسألكم الدعاء"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🌟"
+          ],
+          "accessibility_text": "بركة الشهر"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "💝"
+          ],
+          "accessibility_text": "صدقة جارية"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "📿"
+          ],
+          "accessibility_text": "ذكر الله"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🌿"
+          ],
+          "accessibility_text": "الله يشفيه"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "🕊️"
+          ],
+          "accessibility_text": "اللهم ارحمه"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "مبارك عليكم الشهر"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "كل طاعة وأنتم بخير"
+        }
+      ]
+    },
+    {
+      "identifier": "funny_replies",
+      "name": "مواقف طريفة",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "💀"
+          ],
+          "accessibility_text": "هههه أموت"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "😳"
+          ],
+          "accessibility_text": "لا أصدق"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "😱"
+          ],
+          "accessibility_text": "يا ويلي"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "كفو"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🤨"
+          ],
+          "accessibility_text": "أنت تمزح"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🧐"
+          ],
+          "accessibility_text": "وش هالسالفة"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "😮"
+          ],
+          "accessibility_text": "يا الله"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🤔"
+          ],
+          "accessibility_text": "جد؟"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "😲"
+          ],
+          "accessibility_text": "ما صدقت"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤦"
+          ],
+          "accessibility_text": "لا حول"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😨"
+          ],
+          "accessibility_text": "أعوذ بالله"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😂"
+          ],
+          "accessibility_text": "ضحكتني"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "😤"
+          ],
+          "accessibility_text": "على جثتي"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🙅"
+          ],
+          "accessibility_text": "خلاص انتهينا"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "😴"
+          ],
+          "accessibility_text": "أنا نايم"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🙉"
+          ],
+          "accessibility_text": "ما سمعت شي"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🌈"
+          ],
+          "accessibility_text": "تفاءل"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "أعطني فرصة"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😅"
+          ],
+          "accessibility_text": "هدّي اللعب"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "😇"
+          ],
+          "accessibility_text": "أنا بريء"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🎯"
+          ],
+          "accessibility_text": "جبتها"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🤷"
+          ],
+          "accessibility_text": "ما عندي خبر"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🤔"
+          ],
+          "accessibility_text": "إيش القصة؟"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🙈"
+          ],
+          "accessibility_text": "لا تفضحني"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🤫"
+          ],
+          "accessibility_text": "سر بيننا"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "😏"
+          ],
+          "accessibility_text": "يا سلام عليك"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "😎"
+          ],
+          "accessibility_text": "هذا أنا"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "😵"
+          ],
+          "accessibility_text": "مو معقول"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "الله يستر"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🤞"
+          ],
+          "accessibility_text": "خير إن شاء الله"
+        }
+      ]
+    },
+    {
+      "identifier": "praise_cheer",
+      "name": "مديح وتشجيع",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "🌟"
+          ],
+          "accessibility_text": "أنت رائع"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "فخور بك"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🎨"
+          ],
+          "accessibility_text": "إبداع"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "💡"
+          ],
+          "accessibility_text": "مبدع"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "👍"
+          ],
+          "accessibility_text": "عمل ممتاز"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "كفو والله"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "أحسنت صنعاً"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🏆"
+          ],
+          "accessibility_text": "تستاهل"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "🏅"
+          ],
+          "accessibility_text": "بطل"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🥇"
+          ],
+          "accessibility_text": "أنت الأفضل"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "⭐"
+          ],
+          "accessibility_text": "نجم النجوم"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "✨"
+          ],
+          "accessibility_text": "ما شاء الله عليك"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "💪"
+          ],
+          "accessibility_text": "استمر"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🚀"
+          ],
+          "accessibility_text": "واصل التقدم"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "💪"
+          ],
+          "accessibility_text": "الله يقويك"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "➡️"
+          ],
+          "accessibility_text": "إلى الأمام"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🤩"
+          ],
+          "accessibility_text": "أداء مذهل"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🤝"
+          ],
+          "accessibility_text": "فريق رائع"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "👌"
+          ],
+          "accessibility_text": "رائع جداً"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "جهد مشكور"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🦸"
+          ],
+          "accessibility_text": "شكراً لك يا بطل"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "💪"
+          ],
+          "accessibility_text": "أنت قدها"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🌈"
+          ],
+          "accessibility_text": "لا شيء مستحيل"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "✨"
+          ],
+          "accessibility_text": "آمن بنفسك"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "😎"
+          ],
+          "accessibility_text": "ثق بنفسك"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "🎓"
+          ],
+          "accessibility_text": "نجاح باهر"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "📈"
+          ],
+          "accessibility_text": "تفوق مستمر"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "💡"
+          ],
+          "accessibility_text": "أنت ملهم"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "كل التقدير"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🌟"
+          ],
+          "accessibility_text": "دمت متألقاً"
+        }
+      ]
+    },
+    {
+      "identifier": "weekdays_time",
+      "name": "أيام وأوقات",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "📅"
+          ],
+          "accessibility_text": "سبت مبارك"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "📅"
+          ],
+          "accessibility_text": "أحد جميل"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "💪"
+          ],
+          "accessibility_text": "اثنين نشيط"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "😌"
+          ],
+          "accessibility_text": "ثلاثاء هادئ"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🍀"
+          ],
+          "accessibility_text": "أربعاء موفق"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🎉"
+          ],
+          "accessibility_text": "خميس سعيد"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🕌"
+          ],
+          "accessibility_text": "أحلى جمعة"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🌅"
+          ],
+          "accessibility_text": "فجر جميل"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "☀️"
+          ],
+          "accessibility_text": "ظهيرة سعيدة"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🌤️"
+          ],
+          "accessibility_text": "عصر هادئ"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🌇"
+          ],
+          "accessibility_text": "مغرب جميل"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🌌"
+          ],
+          "accessibility_text": "ليل هادئ"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🕛"
+          ],
+          "accessibility_text": "منتصف الليل"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🌱"
+          ],
+          "accessibility_text": "بداية جديدة"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🌈"
+          ],
+          "accessibility_text": "غداً أفضل"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "📅"
+          ],
+          "accessibility_text": "أول الشهر"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "💸"
+          ],
+          "accessibility_text": "نهاية الشهر"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🏖️"
+          ],
+          "accessibility_text": "الصيف"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "❄️"
+          ],
+          "accessibility_text": "الشتاء"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🍂"
+          ],
+          "accessibility_text": "الخريف"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🌸"
+          ],
+          "accessibility_text": "الربيع"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🌞"
+          ],
+          "accessibility_text": "كل يوم جديد"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "⏱️"
+          ],
+          "accessibility_text": "الآن"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "⏳"
+          ],
+          "accessibility_text": "بعد قليل"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🔜"
+          ],
+          "accessibility_text": "قريباً"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "📍"
+          ],
+          "accessibility_text": "اليوم"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "➡️"
+          ],
+          "accessibility_text": "غداً"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "📅"
+          ],
+          "accessibility_text": "أسبوع موفق"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "🏝️"
+          ],
+          "accessibility_text": "عطلة سعيدة"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "⏸️"
+          ],
+          "accessibility_text": "وقت مستقطع"
+        }
+      ]
+    },
+    {
+      "identifier": "bunny_talk",
+      "name": "أرنوب يتكلم",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "هلو"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🙂"
+          ],
+          "accessibility_text": "شلونك؟"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "أهلاً"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "مرحباً"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "☀️"
+          ],
+          "accessibility_text": "صباح الخير"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🌆"
+          ],
+          "accessibility_text": "مساء الخير"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "تصبح على خير"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "شكراً"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "عفواً"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🥺"
+          ],
+          "accessibility_text": "آسف"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "❤️"
+          ],
+          "accessibility_text": "أحبك"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "👍"
+          ],
+          "accessibility_text": "تمام"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "👌"
+          ],
+          "accessibility_text": "ماشي"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🙅"
+          ],
+          "accessibility_text": "لا"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "ممكن؟"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🤔"
+          ],
+          "accessibility_text": "وينك؟"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "💕"
+          ],
+          "accessibility_text": "اشتقت لك"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🎉"
+          ],
+          "accessibility_text": "مبروك"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🍀"
+          ],
+          "accessibility_text": "بالتوفيق"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🍔"
+          ],
+          "accessibility_text": "جوعان"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "😴"
+          ],
+          "accessibility_text": "نعسان"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "😩"
+          ],
+          "accessibility_text": "تعبان"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "😢"
+          ],
+          "accessibility_text": "زعلان"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🏃"
+          ],
+          "accessibility_text": "أنا قادم"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "⏳"
+          ],
+          "accessibility_text": "بعد قليل"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "🤩"
+          ],
+          "accessibility_text": "يا سلام"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "😂"
+          ],
+          "accessibility_text": "هههههه"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "😱"
+          ],
+          "accessibility_text": "مستحيل"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "☎️"
+          ],
+          "accessibility_text": "كلمني"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "مع السلامة"
+        }
+      ]
+    },
+    {
+      "identifier": "cat_talk",
+      "name": "ميمو يتكلم",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "يا هلا"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "حياك الله"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🗞️"
+          ],
+          "accessibility_text": "وش أخبارك؟"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "🙂"
+          ],
+          "accessibility_text": "كيف الحال؟"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "الحمد لله"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "👍"
+          ],
+          "accessibility_text": "أبشر"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "👌"
+          ],
+          "accessibility_text": "على راسي"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "😌"
+          ],
+          "accessibility_text": "ما عليك"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "❤️"
+          ],
+          "accessibility_text": "يا غالي"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "💪"
+          ],
+          "accessibility_text": "يعطيك العافية"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🤝"
+          ],
+          "accessibility_text": "الله يسلمك"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "جزاك الله خير"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🌟"
+          ],
+          "accessibility_text": "نورتنا"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "⚡"
+          ],
+          "accessibility_text": "بسرعة"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "⏳"
+          ],
+          "accessibility_text": "لحظة"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😢"
+          ],
+          "accessibility_text": "أنا زعلان"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🍕"
+          ],
+          "accessibility_text": "أنا جوعان"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🙅"
+          ],
+          "accessibility_text": "ما أبي"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "☕"
+          ],
+          "accessibility_text": "أبي قهوة"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "👉"
+          ],
+          "accessibility_text": "تعال هنا"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🚗"
+          ],
+          "accessibility_text": "وين رايح؟"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🌿"
+          ],
+          "accessibility_text": "سلامات"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "تسلم"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "💻"
+          ],
+          "accessibility_text": "أنا مشغول"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "✔️"
+          ],
+          "accessibility_text": "موافق"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "أحسنت"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🎉"
+          ],
+          "accessibility_text": "مبروك عليك"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "ليلة سعيدة"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "صباح الورد"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "مع السلامة"
+        }
+      ]
+    },
+    {
+      "identifier": "bear_talk",
+      "name": "دبدوب يتكلم",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "أهلاً بك"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🎉"
+          ],
+          "accessibility_text": "كل عام وأنتم بخير"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "☀️"
+          ],
+          "accessibility_text": "صباح النور"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "🌇"
+          ],
+          "accessibility_text": "مساء النور"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "😴"
+          ],
+          "accessibility_text": "نوم العافية"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🤝"
+          ],
+          "accessibility_text": "أنا معك"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "😌"
+          ],
+          "accessibility_text": "لا تقلق"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "💝"
+          ],
+          "accessibility_text": "فداك"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "💔"
+          ],
+          "accessibility_text": "وحشتني"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "❤️"
+          ],
+          "accessibility_text": "أحبك كثيراً"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🚗"
+          ],
+          "accessibility_text": "يلا نطلع"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🍯"
+          ],
+          "accessibility_text": "أبي عسل"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🎈"
+          ],
+          "accessibility_text": "تعال نلعب"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "😡"
+          ],
+          "accessibility_text": "أنا غاضب"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "😱"
+          ],
+          "accessibility_text": "ما أصدق"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😂"
+          ],
+          "accessibility_text": "ههههه"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "💡"
+          ],
+          "accessibility_text": "فكرة"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🍀"
+          ],
+          "accessibility_text": "بالتوفيق"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "أحسنت"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🥺"
+          ],
+          "accessibility_text": "سامحني"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "شكراً جزيلاً"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "الله يحفظك"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🍽️"
+          ],
+          "accessibility_text": "وين الأكل؟"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "👍"
+          ],
+          "accessibility_text": "حاضر"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🗓️"
+          ],
+          "accessibility_text": "بكرة نتكلم"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "⏰"
+          ],
+          "accessibility_text": "قوم يا كسلان"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "أنا بخير"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "😩"
+          ],
+          "accessibility_text": "تعبت"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "⭐"
+          ],
+          "accessibility_text": "ممتاز"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "إلى اللقاء"
+        }
+      ]
+    },
+    {
+      "identifier": "bunny_talk2",
+      "name": "أرنوب يتكلم 2",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "🙂"
+          ],
+          "accessibility_text": "كيف حالك؟"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "الحمد لله"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "💪"
+          ],
+          "accessibility_text": "يعطيك العافية"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "✨"
+          ],
+          "accessibility_text": "ما شاء الله"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "بارك الله فيك"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "جزاك الله خيراً"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🤞"
+          ],
+          "accessibility_text": "إن شاء الله"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🌟"
+          ],
+          "accessibility_text": "بإذن الله"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "🌹"
+          ],
+          "accessibility_text": "صباح الورد"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🌼"
+          ],
+          "accessibility_text": "مساء الفل"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😍"
+          ],
+          "accessibility_text": "حبيبي"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "💖"
+          ],
+          "accessibility_text": "يا قلبي"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "⏳"
+          ],
+          "accessibility_text": "لحظة"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "⏱️"
+          ],
+          "accessibility_text": "دقيقة"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🚗"
+          ],
+          "accessibility_text": "أنا في الطريق"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "📍"
+          ],
+          "accessibility_text": "وصلت"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🙌"
+          ],
+          "accessibility_text": "خلاص"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "لا تزعل"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🤝"
+          ],
+          "accessibility_text": "مسامح"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "أنا آسف جداً"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🎊"
+          ],
+          "accessibility_text": "عيد سعيد"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "رمضان كريم"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🕌"
+          ],
+          "accessibility_text": "جمعة مباركة"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "يا رب"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🤷"
+          ],
+          "accessibility_text": "ما أدري"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "✅"
+          ],
+          "accessibility_text": "أكيد"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "💯"
+          ],
+          "accessibility_text": "طبعاً"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "👌"
+          ],
+          "accessibility_text": "مو مشكلة"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "⚡"
+          ],
+          "accessibility_text": "بسرعة"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🤝"
+          ],
+          "accessibility_text": "نلتقي قريباً"
+        }
+      ]
+    },
+    {
+      "identifier": "cat_talk2",
+      "name": "ميمو يتكلم 2",
+      "publisher": "ملصقات عربية",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "☀️"
+          ],
+          "accessibility_text": "صباح الخير"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🌆"
+          ],
+          "accessibility_text": "مساء الخير"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "تصبح على خير"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "هلا والله"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "☎️"
+          ],
+          "accessibility_text": "كلمني"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "💼"
+          ],
+          "accessibility_text": "أنا مشغول"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "💕"
+          ],
+          "accessibility_text": "اشتقت لك"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "❤️"
+          ],
+          "accessibility_text": "أحبك"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "شكراً"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "عفواً"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🥺"
+          ],
+          "accessibility_text": "آسف"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "👍"
+          ],
+          "accessibility_text": "تمام"
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🙅"
+          ],
+          "accessibility_text": "لا"
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🤷"
+          ],
+          "accessibility_text": "يمكن"
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "😱"
+          ],
+          "accessibility_text": "مستحيل"
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😂"
+          ],
+          "accessibility_text": "هههههه"
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🤔"
+          ],
+          "accessibility_text": "وش رايك؟"
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "👌"
+          ],
+          "accessibility_text": "زين"
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🎉"
+          ],
+          "accessibility_text": "مبروك"
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🍀"
+          ],
+          "accessibility_text": "حظ سعيد"
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🍽️"
+          ],
+          "accessibility_text": "بالعافية"
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "😴"
+          ],
+          "accessibility_text": "نعسان"
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🍔"
+          ],
+          "accessibility_text": "جوعان"
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "😩"
+          ],
+          "accessibility_text": "تعبان"
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🏃"
+          ],
+          "accessibility_text": "أنا جاي"
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "🧐"
+          ],
+          "accessibility_text": "وين انت؟"
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "⏰"
+          ],
+          "accessibility_text": "لا تتأخر"
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "🤩"
+          ],
+          "accessibility_text": "يا سلام"
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "😌"
+          ],
+          "accessibility_text": "ما عليه"
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "سلام"
+        }
+      ]
+    }
+  ]
+}

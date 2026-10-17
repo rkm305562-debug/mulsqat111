@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ملصقات عربية</string>
+    <string name="add_to_whatsapp">إضافة إلى واتساب</string>
+    <string name="stickers_count">%1$d ملصق</string>
+    <string name="whatsapp_missing">واتساب غير مثبّت على هذا الجهاز</string>
+    <string name="whatsapp_error">تعذّر فتح واتساب. حدّث واتساب إلى آخر إصدار وحاول مجدداً</string>
+    <string name="add_failed">تعذّرت إضافة الحزمة: %1$s</string>
+    <string name="loading_failed">تعذّر تحميل الملصقات</string>
+</resources>

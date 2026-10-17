@@ -1,0 +1,53 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.stickers.arabicpack'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.stickers.arabicpack"   // غيّره إلى معرّف تطبيقك الخاص قبل النشر
+        minSdk 21
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+
+    // التوقيع يُفعَّل فقط عند وجود متغيرات البيئة (يستخدمها workflow الإصدار)
+    signingConfigs {
+        release {
+            def ksFile = System.getenv("KEYSTORE_FILE")
+            if (ksFile) {
+                storeFile file(ksFile)
+                storePassword System.getenv("KEYSTORE_PASSWORD")
+                keyAlias System.getenv("KEY_ALIAS")
+                keyPassword System.getenv("KEY_PASSWORD")
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            if (System.getenv("KEYSTORE_FILE")) {
+                signingConfig signingConfigs.release
+            }
+        }
+    }
+
+    // ملفات الملصقات يجب أن تبقى غير مضغوطة داخل APK ليقرأها واتساب مباشرة
+    androidResources {
+        noCompress 'webp', 'png', 'json'
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    lint {
+        abortOnError false
+        checkReleaseBuilds false
+    }
+}
